@@ -9,5 +9,25 @@
             android:layout_height="wrap_content"
             android:text="Hello World, MainActivity"
             />
+
+    <ListView
+        android:id="@+id/android:list"
+        android:layout_width="wrap_content"
+        android:layout_height="300dp"
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Compass"
+        android:id="@+id/btn_compass"
+        android:onClick="runCompass"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Acceleration"
+        android:id="@+id/btn_accelaration"
+        android:onClick="runAcceleration"/>
 </LinearLayout>
 

@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">sandkasten</string>
+    <string name="app_name">Sandkasten 2</string>
+    <string name="compass_label">Compass</string>
+    <string name="acceleration_label">Compass</string>
+
 </resources>

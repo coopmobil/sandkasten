@@ -18,5 +18,11 @@
             </intent-filter>
 
         </activity>
+        <activity android:name=".acceleration.AccelActivity"
+                  android:label="@string/acceleration_label">
+        </activity>
+        <activity android:name=".compass.CompassActivity"
+                  android:label="@string/compass_label">
+        </activity>
     </application>
 </manifest>
